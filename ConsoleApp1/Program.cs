@@ -8,9 +8,9 @@ Console.WriteLine(a+b*c);
 
 return;
 
-static double CalculateAverage(int[] ar)
+static double CalculateAverage(int[] r)
 {
-    return ar.Average();
+    return r.Average();
 }
 
 static double CalculateMax(int[] ar)
