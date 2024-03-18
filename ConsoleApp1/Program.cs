@@ -8,7 +8,7 @@ Console.WriteLine(a+b*c);
 
 return;
 
-static double CalculateAverage(int[] arr)
+static double CalculateAverage(int[] ar)
 {
-    return arr.Average();
+    return ar.Average();
 }
